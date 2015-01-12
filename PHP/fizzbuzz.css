@@ -1,0 +1,20 @@
+
+/** By @TurKux **/
+
+body
+{
+      background-color: #8E44AD;
+      color:#ECECEC;
+      font-size: 1.6em;
+      font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
+}
+
+h1
+{
+      padding-left: 10%;
+}
+
+ol
+{
+      padding: 0 20% 0 40%;
+}
